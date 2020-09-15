@@ -49,5 +49,15 @@
 ### type="radio": Radio buttons allow users to pick just one of a number of options.
 ### value: The value attribute indicates the value that is sent to the server for the selected option. The value of each of the buttons in a group should be different (so that the server knows which option the user has selected).
 
+![radio input](https://user-images.githubusercontent.com/70091044/93194643-fbabb500-f750-11ea-88c4-f8f2e794c74d.PNG)
 
+## Checkbox
+### type="checkbox": Checkboxes allow users to select (and unselect) one or more options in answer to a question.
+### value:The value attribute indicates the value sent to the server if this checkbox is checked.
+
+## Drop Down List Box: < select >
+
+### The < select > element is used to create a drop down list box. It contains two or more < option> elements. 
+
+### < option >: The < option > element is used to specify the options that the user can select from. The words between the opening < option > and closing < /option > tags will be shown to the user in the drop down box.
 
