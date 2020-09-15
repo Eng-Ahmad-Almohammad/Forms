@@ -40,3 +40,14 @@
 
 ### All other attributes are same.
 
+![forms](https://user-images.githubusercontent.com/70091044/93193746-ec783780-f74f-11ea-9bfc-35e4ea36e3e1.PNG)
+
+## Text area < textarea >
+### The < textarea > element is used to create a mutli-line text input. Unlike other input elements this is not an empty element. It should therefore have an opening and a closing tag. Any text that appears between the opening < textarea > and closing < /textarea > tags will appear in the text box when the page loads.
+
+## Radio Button
+### type="radio": Radio buttons allow users to pick just one of a number of options.
+### value: The value attribute indicates the value that is sent to the server for the selected option. The value of each of the buttons in a group should be different (so that the server knows which option the user has selected).
+
+
+
