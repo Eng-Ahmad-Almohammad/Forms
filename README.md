@@ -61,3 +61,9 @@
 
 ### < option >: The < option > element is used to specify the options that the user can select from. The words between the opening < option > and closing < /option > tags will be shown to the user in the drop down box.
 
+![drop list](https://user-images.githubusercontent.com/70091044/93195436-ed11cd80-f751-11ea-813b-197045becd44.PNG)
+
+## File Input Box
+### type="file": This type of input creates a box that looks like a text input followed by a browse button. When the user clicks on the browse button, a window opens up that allows them to select a file from their computer to be uploaded to the website.
+
+
