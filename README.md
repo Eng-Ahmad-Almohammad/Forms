@@ -33,3 +33,10 @@
 * size: The size attribute should not be used on new forms. It was used in older forms to indicate the width of the text input 
 
 * maxlength: You can use the maxlength attribute to limit the number of characters a user may enter into the text field.
+
+
+## Password Input
+### type="password": When the type attribute has a value of password it creates a text box that acts just like a single-line text input, except the characters are blocked out. 
+
+### All other attributes are same.
+
